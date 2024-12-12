@@ -1,0 +1,41 @@
+GNSS Support
+Integrated
+Hubble eSIM
+Modem
+Intelligence Cloud
+Global
+Sigfox Certiﬁed
+NB-IoT Module
+DRX & 
+eDRX modes
+Classic 
+CAN Interface
+CAN
+C42GM is an LTE Cat M1/Cat NB2/NB1 Module that adheres to the 3GPP Release 14 speciﬁcations. With its 
+compact form factor of 26.5 x 22.5 x 2.3 mm and ultra-low power consumption, the C42GM module is well-suited 
+for applications with limited space and power constraints. It oﬀers global band support, ensuring compatibility in 
+various regions. The module also provides the option of integrated GNSS and eSIM, powered by the Cavli Hubble 
+Global Connectivity and Device Management Platform. Its versatility makes it suitable for a wide range of applica-
+tions, including Asset Tracking, Vehicular Telemetry Systems, Smart Cities, Healthcare, Smart Homes, Retail, Safety 
+Devices, as well as Industrial and Agricultural Intelligent Monitoring.
+Copyright © 2024 Cavli Inc., All Rights Reserved     www.cavliwireless.com
+HQ address: Cavli Inc.,99 South Almaden Blvd.,Suite 600, San Jose, California, 95113
+Email: solutions@cavliwireless.com
+Cat
+Cat
+Cat
+Cat
+B54/
+Extended Operating temperature:
+40  
+75  
+16 MB / 32 MB
+@ 1.5GHz 
+LTE
+3xUART, 1xANT , 1xGNSS_ANT1, 1xSDIO, 
+1xCAN Bus, 8xGPIO2, 1xPCM2, 1xI2C2,
+2xADC2, 1xUSIM, 1xSPI2
+GPS / BeiDou & QZSS Capable
+Copyright © 2024.V1.0 Cavli Inc., All Rights Reserved     www.cavliwireless.com
+HQ address: Cavli Inc.,99 South Almaden Blvd.,Suite 600, San Jose, California, 95113
+Email: solutions@cavliwireless.com
